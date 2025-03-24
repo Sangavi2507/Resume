@@ -97,7 +97,7 @@
         &lt;div class=&quot;header-content&quot;&gt;
             &lt;!-- Add your profile picture here --&gt;
             &lt;img src=&quot;passport photo.jpg&quot; alt=&quot;Your Profile Picture&quot; class=&quot;profile-picture&quot;&gt;
-            &lt;h1&gt;Sangavi K&lt;/h1&gt;
+            &lt;h1&gt;Sangavi K;/h1&gt;
             &lt;p&gt;Am Undergraduate&lt;/p&gt;
         &lt;/div&gt;
     &lt;/header&gt;
@@ -116,7 +116,7 @@
     &lt;section id=&quot;about&quot;&gt;
         &lt;div class=&quot;section-content&quot;&gt;
             &lt;h2&gt;About Me&lt;/h2&gt;
-            &lt;p&gt;I&#x27;m &lt;b&gt;Sangavi&lt;/b&gt; a student with passion to become a Information Technology.
+            &lt;p&gt;I&#x27;m &lt;b&gt;Sangavi k;/b&gt; a student with passion to become a Information Technology.
             My hobby is to cook dishes for my family and get credits from them is my worthfull happiness  
             My passion wants to become a chef
             My profession wants to become a software engineer 
@@ -175,7 +175,7 @@
     &lt;/section&gt;
 
     &lt;footer&gt;
-        &lt;p&gt;&amp;copy; 2025 Sangavi&lt;/p&gt;
+        &lt;p&gt;&amp;copy; 2025 Sangavi k;/p&gt;
     &lt;/footer&gt;
 
     &lt;script&gt;
